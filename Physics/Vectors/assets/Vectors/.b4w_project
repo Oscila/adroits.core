@@ -1,0 +1,30 @@
+[info]
+author = Arhik
+name = Vectors
+title = Vectors
+icon = 
+
+[paths]
+assets_dirs = apps_dev/Vectors;
+blend_dirs = apps_dev/Vectors;
+blender_exec = blender
+build_dir = apps_dev/Vectors
+deploy_dir = 
+
+[compile]
+apps = 
+css_ignore = 
+engine_type = update
+ignore = 
+js_ignore = 
+optimization = simple
+use_physics = 
+use_smaa_textures = 
+version = 
+
+[deploy]
+assets_path_dest = assets
+assets_path_prefix = assets
+ignore = 
+override = 
+
